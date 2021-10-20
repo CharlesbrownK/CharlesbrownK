@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JungHeon0418
 - 👀 I’m interested in AI learning like CNN.
-- 🌱 I’m currently learning python, C.
+- 🌱 I’m currently learning python, C, HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
