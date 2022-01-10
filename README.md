@@ -1,7 +1,7 @@
 # <p align="center">Charlesbrown K</p>
 - 👋 Hi, I’m @Junghoon-Kim(Charlesbrown K)
 
-## Introduction
+## <p align="center">Introduction</p>
 - 👀 I’m interested in Python and html.
 - 🌱 I’m currently learning python, C, HTML.
 
