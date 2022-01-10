@@ -1,5 +1,5 @@
 # Charlesbrown K
-- 👋 Hi, I’m @Junghoon-Kim(or Charlesbrown K[my favorite nickname](https://github.com/CharlesbrownK))
+- 👋 Hi, I’m @Junghoon-Kim(Charlesbrown K)
 
 ## Introduction
 - 👀 I’m interested in Python and html.
