@@ -1,4 +1,4 @@
-# Charlesbrown K
+# <p align="center">Charlesbrown K</p>
 - 👋 Hi, I’m @Junghoon-Kim(Charlesbrown K)
 
 ## Introduction
