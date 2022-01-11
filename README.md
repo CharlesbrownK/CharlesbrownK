@@ -19,17 +19,10 @@ I'm just a **High School Developer** with a deep interest in what's called Pytho
 **However**, as I continued to code, I felt the need to organize what I had learned and further solve complex structures.
 
 ### To Do List
-- [X] DPIW Project
-
-- [ ] Discord.py
-
-- [ ] 
+- [ ] DPIW Project
 
 - [ ] Add Comments Function
 
-<!---
-JungHeon0418/JungHeon0418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- [ ] Discord.py
+
+- [ ] Sqlite3
