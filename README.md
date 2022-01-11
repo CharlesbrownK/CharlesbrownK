@@ -25,6 +25,6 @@ I'm just a **High School Developer** with a deep interest in what's called Pytho
 
 - [ ] Sqlite3
 
-## Finally
+## <p align="center">Finally</p>
 
 😀Thank and Have a great day!
