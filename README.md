@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python and html.
 - 🌱 I’m currently learning python, C, HTML.
 
-Well, I'm a highschool student now!
+I'm a highschool student now!
 
 I started studying Python in 2021 and I know there is still a lot more to learn.
 
