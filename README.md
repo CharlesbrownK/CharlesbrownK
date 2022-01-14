@@ -15,13 +15,13 @@ I'm just a **High School Developer** with a deep interest in what's called Pytho
 **However**, as I continued to code, I felt the need to organize what I had learned and further solve complex structures.
 
 ### To Do List
-- [ ] DPIW Project
+  [ ] DPIW Project
 
-- [ ] Add Comments Function
+  [ ] Add Comments Function
 
-- [ ] Discord.py
+  [ ] Discord.py
 
-- [ ] Sqlite3
+  [ ] Sqlite3
 
 ## Finally
 
