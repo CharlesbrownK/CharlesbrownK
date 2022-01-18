@@ -1,7 +1,7 @@
 # Charlesbrown K
 ## Introduction
-- 👀 I’m interested in Python and html.
-- 🌱 I’m currently learning python, C, HTML.
+- 👀 I’m interested in Python and Java.
+- 🌱 I’m currently learning Python, C.
 
 I'm a highschool student now!
 
