@@ -1,7 +1,9 @@
 # Charlesbrown K
 ## Introduction
 - 👀 I’m interested in Python and Java.
-- 🌱 I’m currently learning Python, C.
+- 🌱 I’m currently learning Python, MySQL.
+- 🔧 The skills I have are Python, MySQL and HTML.
+- 🔥 I want to become a data scientist who can handle servers and databases.
 
 I'm a highschool student now!
 
