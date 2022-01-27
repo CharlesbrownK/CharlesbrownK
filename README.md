@@ -19,9 +19,9 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 
 ### My Works 💻
 
-[📰 NewsBot](https://github.com/CharlesbrownK/NewsBot) <br>
+[📰 NewsBot](https://github.com/CharlesbrownK/NewsBot) - _Coming Soon, Stay Tuned!_<br>
 [🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) - _This Project Use GTA5 to Make **Self Driving Model**_<br>
-[📋 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) _Use **BeautifulSoup4** and **Selenium** to Crawl in Web_<br>
+[📋 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) - _Use **BeautifulSoup4** and **Selenium** to Crawl in Web_<br>
 
 
 ### Find me elsewhere 🌎
