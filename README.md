@@ -20,11 +20,11 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 ### My Works 💻
 
 [📰 NewsBot](https://github.com/CharlesbrownK/NewsBot) <br>
-[🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) <br>
-[📋 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) <br>
+[🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) - _This Project Use GTA5 to Make **self driving Model**_<br>
+[📋 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) _Use **BeautifulSoup4** and **Selenium** to Crawl in Web_<br>
 
 
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://charlesbrownk.github.io/) <br>
-[📸: Instagram](https://www.instagram.com/junghoon_kim04/) <br>
+[📸: Instagram](https://www.instagram.com/junghoon_kim04/) _My Everyday Life 👔 📖 🎽_<br>
