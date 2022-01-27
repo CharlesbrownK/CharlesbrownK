@@ -19,4 +19,4 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 
 [🚀: Site](https://charlesbrownk.github.io/) <br>
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>: Instagram](https://www.instagram.com/junghoon_kim04/)
-https://giphy.com/gifs/ehz3LfVj7NvpY8jYUY
+<!-- https://giphy.com/gifs/ehz3LfVj7NvpY8jYUY -->
