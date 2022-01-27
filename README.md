@@ -1,5 +1,5 @@
 # Charlesbrown K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-### Introduction
+### Introduction <img src="https://media.giphy.com/media/ZdNlmHHr7czumQPvNE/giphy.gif" width="20px">
 - 👀 I’m interested in Python and Java.
 - 🌱 I’m currently learning Python, MySQL.
 - 🔧 The skills I have are Python, MySQL and HTML.
