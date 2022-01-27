@@ -10,13 +10,13 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 
 ### Developement Environment 👨‍💻
 
-[Visual Studio Code](https://code.visualstudio.com/#alt-downloads/)
-[Sublime Text 4](https://www.sublimetext.com/)
-[Linux Mint Cinnamon Edition](https://www.linuxmint.com/download.php)
+[🏡: IDE](https://code.visualstudio.com/#alt-downloads/)
+[🎫: Text Editor](https://www.sublimetext.com/)
+[🌠: Development OS](https://www.linuxmint.com/download.php)
 
 
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://charlesbrownk.github.io/) <br>
-[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30px">: Instagram](https://www.instagram.com/junghoon_kim04/)
+[📸: Instagram](https://www.instagram.com/junghoon_kim04/)
 <!-- https://giphy.com/gifs/ehz3LfVj7NvpY8jYUY -->
