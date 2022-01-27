@@ -17,6 +17,13 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 [🌠: Development OS](https://www.linuxmint.com/download.php) <br>
 
 
+### My Works 💻
+
+[📰 NewsBot](https://github.com/CharlesbrownK/NewsBot) <br>
+[🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) <br>
+[📋 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) <br>
+
+
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://charlesbrownk.github.io/) <br>
