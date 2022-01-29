@@ -1,13 +1,6 @@
 ### Hey, I'm Charlesbrown K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
 
-### Introduction 👏
-- 👀 I’m interested in Python and Java.
-- 🌱 I’m currently learning Python, MySQL.
-- 🔧 The skills I have are Python, MySQL and HTML.
-- 🔥 I want to become a data scientist who can handle servers and databases.
-
-
 ### Developement Environment 👨‍💻
 
 <a href="https://code.visualstudio.com/">
