@@ -7,8 +7,6 @@
 - 🔧 The skills I have are Python, MySQL and HTML.
 - 🔥 I want to become a data scientist who can handle servers and databases.
 
-I'm a highschool student now! I started studying Python in 2021 and I know there is still a lot more to learn. I know that I'm not actually good at writing codes and my codes have tons of problems, so if you find a problem that have to fix in codes, Please don't hesitate to send us a PR. I'd appreciate it!
-
 
 ### Developement Environment 👨‍💻
 
@@ -34,3 +32,8 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 
 [🚀: Site](https://charlesbrownk.github.io/) <br>
 [📸: Instagram](https://www.instagram.com/junghoon_kim04/) _My Everyday Life 👔 📖 🎽_<br>
+
+
+### My Activity Graph 📈
+
+<img alt="" src="https://activity-graph.herokuapp.com/graph?username=CharlesbrownK&theme=minimal">
