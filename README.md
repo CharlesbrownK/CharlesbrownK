@@ -30,3 +30,4 @@
 ### My Activity Graph 📈
 
 <img alt="" src="https://activity-graph.herokuapp.com/graph?username=CharlesbrownK&theme=minimal">
+<img alt="CharlesbrownK's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CharlesbrownK&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
