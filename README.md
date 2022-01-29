@@ -12,9 +12,15 @@ I'm a highschool student now! I started studying Python in 2021 and I know there
 
 ### Developement Environment 👨‍💻
 
-[🏡: IDE](https://code.visualstudio.com/#alt-downloads/) <br>
-[🎫: Text Editor](https://www.sublimetext.com/) <br>
-[🌠: Development OS](https://www.linuxmint.com/download.php) <br>
+<a href="https://code.visualstudio.com/">
+  <img alt="IDE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+</a>
+<a href="https://www.sublimetext.com/">
+  <img alt="Tex Editor" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+</a>
+<a href="https://www.linuxmint.com/download.php">
+  <img alt="Development OS" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+</a>
 
 
 ### My Works 💻
