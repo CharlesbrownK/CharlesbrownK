@@ -30,3 +30,9 @@
 ### My Activity Graph 📈
 
 <img alt="CharlesbrownK's Activity Graph" title="CharlesbrownK's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CharlesbrownK&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!-- 
+<p  align="center">
+  <a><img src="https://ghchart.rshah.org/CharlesbrownK"></a>
+</p> 
+-->
