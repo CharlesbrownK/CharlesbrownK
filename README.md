@@ -12,7 +12,7 @@
 
 <details>
   
-  <summary> 📌 My Projects </summary>
+  <summary> 📌 My Projects </summary> <br>
 
   <a href="https://github.com/CharlesbrownK/Hey-bugo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Hey-bugo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html">
