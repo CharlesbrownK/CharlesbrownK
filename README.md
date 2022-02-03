@@ -16,7 +16,7 @@
 
 ### My Works 💻
 
-[📰 Hi-bugo](https://github.com/CharlesbrownK/Hi-bugo) - _Coming Soon, Stay Tuned!_<br>
+[📰 Hey-bugo](https://github.com/CharlesbrownK/Hey-bugo) - _Coming Soon, Stay Tuned!_<br>
 [🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) - _This Project Use GTA5 to Make **Self Driving Model**_<br>
 [📋 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) - _Use **BeautifulSoup4** and **Selenium** to Crawl in Web_<br>
 
