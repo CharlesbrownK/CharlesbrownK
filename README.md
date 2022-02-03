@@ -12,11 +12,17 @@
 
 <details>
   
-  <summary> 📌 My Works </summary>
+  <summary> 📌 My Projects </summary>
 
-#### [📰 Hey-bugo](https://github.com/CharlesbrownK/Hey-bugo) - _Coming Soon, Stay Tuned!_<br>
-#### [🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) - _This Project Use GTA5 to Make **Self Driving Model**_<br>
-#### [📂 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) - _Use **BeautifulSoup4** and **Selenium** to Crawl in Web_<br>
+  <a href="https://github.com/CharlesbrownK/Hey-bugo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Hey-bugo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html">
+  </a>
+  <a href="https://github.com/CharlesbrownK/py_GTA5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=py_GTA5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true">
+  </a>
+  <a href="https://github.com/CharlesbrownK/Python_Web_Crawlings">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Python_Web_Crawlings&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true">
+  </a>
 
 </details>
 <details>
