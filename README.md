@@ -11,16 +11,16 @@
 
 
 <details>
+  
   <summary> 📌 My Works </summary>
-
 
 #### [📰 Hey-bugo](https://github.com/CharlesbrownK/Hey-bugo) - _Coming Soon, Stay Tuned!_<br>
 #### [🚘 SelfDriving](https://github.com/CharlesbrownK/py_GTA5) - _This Project Use GTA5 to Make **Self Driving Model**_<br>
 #### [📂 WebCrawler](https://github.com/CharlesbrownK/Python_Web_Crawlings) - _Use **BeautifulSoup4** and **Selenium** to Crawl in Web_<br>
 
-
 </details>
 <details>
+  
   <summary> 🚀 Development & Tools </summary> <br>
 
   [![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -54,7 +54,7 @@
 
   <summary> ⭐ Github Stats </summary> <br>
    
-  <img src='https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&hide_border=true&line_height=27'/> <br>
+  <img src='https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=27'/> <br>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true"> -->
 </details>
 <details>
