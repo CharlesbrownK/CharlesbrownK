@@ -60,7 +60,7 @@
   <summary> ⭐ Github Stats </summary> <br>
    
   <img src='https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=27'/> <br>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true">
 </details>
 <details>
   <summary> 📅 My Activity </summary> <br>
