@@ -60,7 +60,7 @@
   <summary> ⭐ Github Stats </summary> <br>
    
   <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&theme=gruvbox_light" alt="Github Stats"> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&theme=gruvbox_light&hide=contribs" alt="Github Stats"> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&theme=gruvbox_light" alt="Top Langs"> <br>
     
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesbrownk" alt="WAKATIME">
