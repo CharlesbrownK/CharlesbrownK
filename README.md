@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Charlesbrown%20K&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62">
+</p>
+
 <div align="center">
 
-### Hey, I'm Charlesbrown K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
+<!-- ### Hey, I'm Charlesbrown K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! -->
 
 [![Website](https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlesbrownk.github.io/about/)
 [![Website](https://img.shields.io/badge/DevBlog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlesbrownk.github.io/)
