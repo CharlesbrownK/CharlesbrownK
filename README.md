@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ### Hey, I'm Charlesbrown K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
@@ -15,13 +14,13 @@
   <summary> 📌 My Projects </summary> <br>
 
   <a href="https://github.com/CharlesbrownK/Hey-bugo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Hey-bugo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Hey-bugo&theme=moltack&show_owner=True">
   </a>
   <a href="https://github.com/CharlesbrownK/py_GTA5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=py_GTA5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=py_GTA5&theme=moltack&show_owner=True">
   </a>
   <a href="https://github.com/CharlesbrownK/Python_Web_Crawlings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Python_Web_Crawlings&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Python_Web_Crawlings&theme=moltack&show_owner=True">
   </a>
 
 </details>
@@ -60,8 +59,15 @@
 
   <summary> ⭐ Github Stats </summary> <br>
    
-  <img src='https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=27'/> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true">
+  <p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&theme=gruvbox_light" alt="Github Stats"> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&theme=gruvbox_light" alt="Top Langs"> <br>
+    
+<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesbrownk" alt="WAKATIME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=css,html" alt="Top Langs"> <br> -->
+  </p>
+  
+    
 </details>
 <details>
   <summary> 📅 My Activity </summary> <br>
