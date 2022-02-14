@@ -65,7 +65,7 @@
    
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&theme=gruvbox_light&hide=contribs" alt="Github Stats"> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=javascript,scss,css,ruby,shell&theme=gruvbox_light" alt="Top Langs"> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=javascript,scss,css,ruby,shell,html&theme=gruvbox_light" alt="Top Langs"> <br>
     
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesbrownk" alt="WAKATIME">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=css,html" alt="Top Langs"> <br> -->
