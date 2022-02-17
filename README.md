@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Charlesbrown%20K&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62">
 </p>
@@ -33,7 +32,7 @@
 <details>
   
   <summary> 💻 Languages and Tools </summary> <br>
-  
+
   [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/ko-kr/pycharm/)
   [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
   [![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -44,18 +43,63 @@
   [![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharlesbrownK)
   [![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   
+  <a href="https://www.tensorflow.org">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" title="tensorflow" height="42px">
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="JAVA" title="JAVA" height="42px">
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" title="Python" height="42px">
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML5" title="HTML5" height="42px">
+  </a>
+  <a href="">
+    <img src="" alt="" title="" height="">
+  </a>
+  <a href="">
+    <img src="" alt="" title="" height="">
+  </a>
+  
+  
+<!-- 
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-  
-<!--   [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+
+  [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
   [![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
   [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   
   [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![sqlite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://docs.python.org/ko/3/library/sqlite3.html) -->
+  [![sqlite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://docs.python.org/ko/3/library/sqlite3.html)
 
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" height="42px">
+  </a>
+ -->
+
+</details>
+<details>
+  
+  <summary> ✍️ Current My Studying </summary> <br>
+  
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" alt="Typescirpt" title="Typescirpt" height="42px">
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" title="Node.js" height ="42px">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" title="Docker" height="42px">
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg" alt="GO" title="GO" height="42px">
+  </a>  
+  <br>
+  
 </details>
 <details>
 
@@ -63,7 +107,7 @@
    
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&theme=gruvbox_light&hide=contribs" alt="Github Stats"> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=javascript,scss,css,ruby,shell,html&theme=gruvbox_light" alt="Top Langs"> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=javascript,scss,css,ruby,shell,html&theme=gruvbox_light&layout=compact" alt="Top Langs"> <br>
     
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesbrownk" alt="WAKATIME">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=css,html" alt="Top Langs"> <br> -->
