@@ -115,10 +115,7 @@
   
     
 </details>
-<details>
-  <summary> 📅 My Activity </summary> <br>
   
-  <img src="https://github.com/CharlesbrownK/CharlesbrownK/blob/output/github-contribution-grid-snake.svg">
-  
-</details>
+<img src="https://github.com/CharlesbrownK/CharlesbrownK/blob/output/github-contribution-grid-snake.svg">
+
 </div>
