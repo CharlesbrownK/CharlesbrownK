@@ -118,7 +118,7 @@
 <details>
   <summary> 📅 My Activity </summary> <br>
   
-  <img src="https://ghchart.rshah.org/CharlesbrownK">
+  <img src="https://github.com/CharlesbrownK/CharlesbrownK/blob/output/github-contribution-grid-snake.svg">
   
 </details>
 </div>
