@@ -18,8 +18,8 @@
   
   <summary> 📌 My Projects </summary> <br>
 
-  <a href="https://github.com/CharlesbrownK/Hey-bugo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Hey-bugo&theme=moltack&show_owner=True">
+  <a href="https://github.com/CharlesbrownK/HeyBugo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=HeyBugo&theme=moltack&show_owner=True">
   </a>
   <a href="https://github.com/CharlesbrownK/py_GTA5">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=py_GTA5&theme=moltack&show_owner=True">
