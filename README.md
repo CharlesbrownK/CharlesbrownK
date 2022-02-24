@@ -18,14 +18,14 @@
   
   <summary> 📌 My Projects </summary> <br>
 
+  <a href="https://github.com/CharlesbrownK/BugoBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=BugoBot&theme=moltack&show_owner=True">
+  </a>
   <a href="https://github.com/CharlesbrownK/HeyBugo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=HeyBugo&theme=moltack&show_owner=True">
   </a>
   <a href="https://github.com/CharlesbrownK/py_GTA5">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=py_GTA5&theme=moltack&show_owner=True">
-  </a>
-  <a href="https://github.com/CharlesbrownK/Python_Web_Crawlings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Python_Web_Crawlings&theme=moltack&show_owner=True">
   </a>
 
 </details>
@@ -106,7 +106,7 @@
    
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=charlesbrownk&show_icons=true&theme=gruvbox_light&hide=contribs" alt="Github Stats"> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=javascript,scss,css,ruby,shell&theme=gruvbox_light&layout=compact" alt="Top Langs"> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=javascript,scss,css,ruby,shell,typescript&theme=gruvbox_light&layout=compact" alt="Top Langs"> <br>
     
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesbrownk" alt="WAKATIME">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrownk&langs_count=8&hide=css,html" alt="Top Langs"> <br> -->
