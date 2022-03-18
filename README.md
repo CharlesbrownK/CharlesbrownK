@@ -4,8 +4,9 @@
 <div align="center">
 <!-- ### Hey, I'm Charlesbrown K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! -->
 
-[![Website](https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlesbrownk.github.io/about/)
-[![Website](https://img.shields.io/badge/DevBlog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charlesbrownk.github.io/)
+<a href="https://charlesbrownk.netlify.app/">
+  <img width="180" src="https://api.netlify.com/api/v1/badges/f5831503-b970-4bb0-ba82-fdb57d52ccd4/deploy-status" />
+</a>
 
 [![Instagram](http://img.shields.io/badge/-Instagram-lightyellow?style=for-the-badge&logo=Instagram)](https://www.instagram.com/junghoon_kim04/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Junghoo47593127)
