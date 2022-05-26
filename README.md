@@ -45,20 +45,11 @@
   <a href="https://www.tensorflow.org">
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" title="tensorflow" height="42px">
   </a>
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="JAVA" title="JAVA" height="42px">
-  </a>
   <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" title="Python" height="42px">
   </a>
   <a>
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML5" title="HTML5" height="42px">
-  </a>
-  <a href="">
-    <img src="" alt="" title="" height="">
-  </a>
-  <a href="">
-    <img src="" alt="" title="" height="">
   </a>
   
 <!-- 
@@ -95,7 +86,10 @@
   </a>
   <a href="https://go.dev/">
     <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg" alt="GO" title="GO" height="42px">
-  </a>  
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="JAVA" title="JAVA" height="42px">
+  </a>
   <br>
   
 </details>
