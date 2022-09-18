@@ -26,6 +26,10 @@
   <a href="https://github.com/Bucheon-high-Macro/macro-apply-page">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bucheon-high-Macro&repo=macro-apply-page&theme=moltack&show_owner=True">
   </a>
+  <a href="https://github.com/CharlesbrownK/Plastic-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=Plastic-detection&theme=moltack&show_owner=True">
+  </a>
+
 
 </details>
 <details>
