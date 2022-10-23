@@ -20,8 +20,8 @@
   <a href="https://github.com/CharlesbrownK/BugoBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=BugoBot&theme=moltack&show_owner=True">
   </a>
-  <a href="https://github.com/CharlesbrownK/py_GTA5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=py_GTA5&theme=moltack&show_owner=True">
+  <a href="https://github.com/CharlesbrownK/data-anonymization">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlesbrownk&repo=data-anonymization&theme=moltack&show_owner=True">
   </a>
   <a href="https://github.com/Bucheon-high-Macro/macro-apply-page">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bucheon-high-Macro&repo=macro-apply-page&theme=moltack&show_owner=True">
